@@ -2,9 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d3aee2-2f97-40de-b865-b653143ad9d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abac/go/abac.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abac/go/abac_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abac/go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abac/go/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/go/abstore.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/go/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/java/src/main/java/org/hyperledger/fabric-samples/ABstore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/javascript/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/javascript/abstore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/abstore/javascript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/go/fabcar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/go/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/config/checkstyle/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/config/checkstyle/suppressions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/src/main/java/org/hyperledger/fabric/samples/fabcar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/src/main/java/org/hyperledger/fabric/samples/fabcar/FabCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/src/test/java/org/hyperledger/fabric/samples/fabcar/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/java/src/test/java/org/hyperledger/fabric/samples/fabcar/FabCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/lib/fabcar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/javascript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/src/car.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/src/fabcar.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/fabcar/typescript/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/go/META-INF/statedb/couchdb/indexes/indexOwner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/go/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/go/marbles_chaincode.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/javascript/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/javascript/META-INF/statedb/couchdb/indexes/indexOwner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/javascript/marbles_chaincode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02/javascript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02_private/collections_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02_private/go/META-INF/statedb/couchdb/collections/collectionMarbles/indexes/indexOwner.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02_private/go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02_private/go/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/marbles02_private/go/marbles_chaincode_private.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/sacc/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/sacc/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/sacc/sacc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chaincodes/sacc/sacc_test.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/app-client/cors/query.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/app-client/cors/router.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/webapp/app-client/cors/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaincodes/chaincode_example02.js" beforeDir="false" afterPath="$PROJECT_DIR$/chaincodes/fish/chaincode_example02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaincodes/chaincode_fish.js" beforeDir="false" afterPath="$PROJECT_DIR$/chaincodes/fish/chaincode_fish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaincodes/chaincode_mycc.js" beforeDir="false" afterPath="$PROJECT_DIR$/chaincodes/fish/chaincode_mycc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/app-client" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/app-client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/app-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/app-client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapp/app-client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/app-client/src/App.js" afterDir="false" />
     </list>
@@ -21,7 +95,14 @@
   </component>
   <component name="GOROOT" path="D:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/webapp/app-client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\Projects\BXG\JavaProjects\HyperledgerFabric\HyperLedgerFabricFishCodes\.idea" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -37,13 +118,14 @@
   <component name="ProjectId" id="1UjJHNMTfssB8UMPeT9K8zMkOBG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/myandroid/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chaincodes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -54,12 +136,14 @@
     <property name="ts.external.directory.path" value="D:\IDEA\ideaIU-2018.3.5.win\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\webapp" />
-      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\webapp\fabcar" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\HyperLedgerFabricFishCodes\chaincodes\fish" />
       <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\chaincodes" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\HyperLedgerFabricFishCodes\chaincodes" />
+      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\webapp" />
+      <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\webapp\fabcar" />
       <recent name="F:\Projects\BXG\JavaProjects\HyperledgerFabric\Fish\chaincodes" />
     </key>
   </component>
@@ -133,6 +217,7 @@
       <workItem from="1576121014155" duration="37134000" />
       <workItem from="1576466630243" duration="5662000" />
       <workItem from="1576564161491" duration="127000" />
+      <workItem from="1576564324258" duration="25813000" />
     </task>
     <servers />
   </component>
